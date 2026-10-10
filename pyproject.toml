@@ -1,0 +1,7 @@
+[project]
+name = "extradrop"
+version = "0.0.1"
+description = "Using hooks, create probability-based drops based on what ball was just caught."
+dependencies = [
+    # "ballsdex>=3.0.0",
+]
